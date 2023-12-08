@@ -46,8 +46,8 @@ You can add your company’s privacy policy to be shown in the app in place of t
 
 There are two types of data that we collect: Required Diagnostic Data (RDD) and Optional Diagnostic Data (ODD). By default, ODD and RDD are enabled. As an admin, you can go into the Admin Center in the Viva Pulse app and de-enable the collection of diagnostic data. Once collection of diagnostic data has been de-enabled, previously collected data for the tenant is still available, but additional data is no longer collected.
 
-* Required Diagnostic Data: Telemetry collected to help us make product improvements and provide enhanced information to help us detect, diagnose, and remediate issues.
-* Optional Diagnostic Data: Telemetry gathered to ensure the customers are secure, up to date, and performing as expected.
+* Required Diagnostic Data: Telemetry gathered to ensure the customers are secure, up to date, and performing as expected.
+* Optional Diagnostic Data: Telemetry collected to help us make product improvements and provide enhanced information to help us detect, diagnose, and remediate issues.
 
 To turn off Required Diagnostic Data or Optional Diagnostic Data collection:
 
